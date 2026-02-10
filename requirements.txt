@@ -1,0 +1,10 @@
+flask
+numpy
+scipy
+librosa
+soundfile
+pydub
+openai-whisper
+praat-parselmouth
+torch
+torchaudio
