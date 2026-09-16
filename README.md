@@ -1,7 +1,3 @@
-# Antigravity - Voice Humanizer
-
-Antigravity uses AI and signal processing to inject human emotion into robotic TTS voices.
-
 ## Prerequisites
 
 1.  **Python 3.10+**
